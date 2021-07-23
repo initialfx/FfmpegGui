@@ -1,0 +1,2 @@
+# FfmpegGui
+Another Ffmpeg GUI
